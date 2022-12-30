@@ -1,0 +1,13 @@
+{
+    "name": "nycrite/captcha",
+    "description": "An easy to use CAPTCHA generator for your verification needs.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nycrite\\Captcha\\": "captcha/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
