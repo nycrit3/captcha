@@ -9,7 +9,7 @@
 </head>
 <body>
     <!-- display in a grid, style -->
-    <div style="display: grid; grid-template-columns: auto auto auto auto auto; gap:2px 1px;">
+    <div style="display: grid; grid-template-columns: auto auto auto auto auto; grid-gap:2px 1px;">
         <?php
             // do this 25 times
             for ($i = 0; $i < 25; $i++) {
