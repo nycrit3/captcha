@@ -2,7 +2,7 @@
 The better way to make image CAPTCHAs.
 
 ## Why?
-I wanted to create the library to both create my first PHP package and because there were no other CAPTCHA creators out there. I was looking for one when I finally had to cave in and create my own.
+As a last resort, I created my own CAPTCHA generator after not wanting to use Google's reCAPTCHA. Certainly, Google's CAPTCHAs are more reliable, but I wanted to make my own alternative for certain cases.
 
 ## Usage
 First, initalize the CAPTCHA generator as so:
